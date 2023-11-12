@@ -1,7 +1,3 @@
-Образец
-Группа
-Прямые прочтения
-Обратные прочтения
 B1	B	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR641/003/SRR6410613/SRR6410613_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR641/003/SRR6410613/SRR6410613_2.fastq.gz
 B2	B	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR641/004/SRR6410614/SRR6410614_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR641/004/SRR6410614/SRR6410614_2.fastq.gz
 B3	B	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR641/001/SRR6410611/SRR6410611_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR641/001/SRR6410611/SRR6410611_2.fastq.gz
